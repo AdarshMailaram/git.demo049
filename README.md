@@ -1,2 +1,4 @@
 #git demo
-## hello bacho
+## cosc
+
+GitHub is a version control platform.
